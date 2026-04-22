@@ -1,7 +1,7 @@
 import socket
 
 # Ganti dengan IP Ubuntu VM kamu
-server_ip = "192.168.18.99"  # contoh (cek pakai ip a di VM)
+server_ip = "192.168.18.99"
 server_port = 8501
 
 # Buat socket UDP
